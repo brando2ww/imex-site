@@ -1,0 +1,83 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Apr 2025 11:30:48 at https://qwerio.net +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://qwerio.net -O1 "C:\Meus Sites\IMEX\IMEX" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:32:24	Error: 	"Error when decompressing" (-1) at link https://qwerio.net//contact (from https://qwerio.net/)
+11:32:24	Error: 	"Error when decompressing" (-1) at link https://qwerio.net//notre-accompagnement (from https://qwerio.net/)
+11:32:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/ged-sharepoint-structuring-a-document-database/ (from https://qwerio.net/)
+11:32:28	Error: 	"Error when decompressing" (-1) at link https://qwerio.net//blog (from https://qwerio.net/)
+11:33:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/wp-content/uploads/2024/09/logo-2.svg (from https://qwerio.net/en/)
+11:33:10	Error: 	"Error when decompressing" (-1) at link https://qwerio.net/en//our-support (from https://qwerio.net/en/)
+11:33:11	Error: 	"Error when decompressing" (-1) at link https://qwerio.net/en//blog (from https://qwerio.net/en/)
+11:33:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/etude-de-cas-modern-workplace-es/ (from https://qwerio.net/accompagnements/digital-factory/)
+11:33:27	Error: 	"Error when decompressing" (-1) at link https://qwerio.net//nos-expertises (from https://qwerio.net/solutions/microsoft-365/)
+11:33:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/wp-content/uploads/2024/09/suit-2.svg (from https://qwerio.net/solutions/microsoft-365/)
+11:33:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/wp-content/uploads/2024/09/suit-3.svg (from https://qwerio.net/solutions/microsoft-365/)
+11:33:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/category/intelligence-artificielle/ (from https://qwerio.net/blog/)
+11:33:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/transformation-digitale/ (from https://qwerio.net/digital-champion/)
+11:33:54	Error: 	"Error when decompressing" (-1) at link https://qwerio.net/en//contact (from https://qwerio.net/en/who-we-are/)
+11:33:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/en/en/contact (from https://qwerio.net/en/accompagnements/intranet/)
+11:33:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/en//our-expertise (from https://qwerio.net/en/solutions/microsoft-365/)
+11:33:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/en/blog/page/2/ (from https://qwerio.net/en/blog/)
+11:33:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/en/pnp-modern-search-v4-the-modern-that-returns-to-its-classics/ (from https://qwerio.net/en/blog/magazine/)
+11:34:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/en/blog/magazine/page/2/ (from https://qwerio.net/en/blog/magazine/)
+11:34:06	Warning: 	Moved Permanently for https://qwerio.net/en//blog/case-studies/
+11:34:06	Warning: 	Redirected link is identical because of 'URL Hack' option: https://qwerio.net/en//blog/case-studies/ and https://qwerio.net/en/blog/case-studies/
+11:34:06	Warning: 	File has moved from https://qwerio.net/en//blog/case-studies/ to https://qwerio.net/en/blog/case-studies/
+11:34:06	Warning: 	Moved Permanently for https://qwerio.net/en//blog/webinar/
+11:34:06	Warning: 	Redirected link is identical because of 'URL Hack' option: https://qwerio.net/en//blog/webinar/ and https://qwerio.net/en/blog/webinar/
+11:34:06	Warning: 	File has moved from https://qwerio.net/en//blog/webinar/ to https://qwerio.net/en/blog/webinar/
+11:34:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/en/creating-a-compliance-strategy-with-intune/ (from https://qwerio.net/en/what-is-digital-transformation/)
+11:34:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/digital-champion-discover-this-emerging-role-with-mathieu-consultant-at-qwerio-3/ (from https://qwerio.net/en/sketch2code-from-sketch-to-html-in-2-min/)
+11:34:09	Warning: 	Moved Permanently for https://qwerio.net/actualites/comment-gerer-efficacement-un-intranet-sharepoint/
+11:34:09	Warning: 	File has moved from https://qwerio.net/actualites/comment-gerer-efficacement-un-intranet-sharepoint/ to https://qwerio.net/comment-gerer-un-intranet-sharepoint/
+11:34:09	Warning: 	Moved Permanently for https://qwerio.net/actualites/creer-un-intranet-avec-sharepoint/
+11:34:09	Warning: 	File has moved from https://qwerio.net/actualites/creer-un-intranet-avec-sharepoint/ to https://qwerio.net/comment-creer-un-intranet-sharepoint/
+11:34:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/wp-content/uploads/2024/11/book-mockup-IA-QWERIO.png (from https://qwerio.net/ia-white-paper/)
+11:34:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/actualites/application-gestion-des-visites-sidel/ (from https://qwerio.net/dette-technique-et-low-code/)
+11:34:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/creer-un-rappel-d-action-dans-teams/ (from https://qwerio.net/dette-technique-et-low-code/)
+11:34:12	Warning: 	Moved Permanently for https://qwerio.net/applications/
+11:34:12	Warning: 	File has moved from https://qwerio.net/applications/ to https://qwerio.net/blog/etude-de-cas/
+11:34:12	Warning: 	Moved Permanently for https://qwerio.net/actualites/lola-faurecia/
+11:34:12	Warning: 	File has moved from https://qwerio.net/actualites/lola-faurecia/ to https://qwerio.net/blog/magazine/
+11:34:12	Warning: 	Moved Permanently for https://qwerio.net/actualites/pnp-modern-search-v4-le-moderne-qui-retourne-a-ses-classiques/
+11:34:12	Warning: 	File has moved from https://qwerio.net/actualites/pnp-modern-search-v4-le-moderne-qui-retourne-a-ses-classiques/ to https://qwerio.net/pnp-modern-search-v4/
+11:34:12	Warning: 	Moved Permanently for https://qwerio.net/actualites/modernisation-du-si-assu-2000/
+11:34:12	Warning: 	File has moved from https://qwerio.net/actualites/modernisation-du-si-assu-2000/ to https://qwerio.net/etude-de-cas-modernisation-si-assu-2000/
+11:34:13	Warning: 	File not parsed, looks like binary: https://qwerio.net/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.woff2?v=4.5.0
+11:34:14	Error: 	"Error when decompressing" (-1) at link https://qwerio.net/qui-sommes-nous (from https://qwerio.net/holacracy-agile-management-method/)
+11:34:17	Warning: 	Moved Permanently for https://qwerio.net/actualites/creer-une-strategie-de-conformite-avec-intune/
+11:34:17	Warning: 	File has moved from https://qwerio.net/actualites/creer-une-strategie-de-conformite-avec-intune/ to https://qwerio.net/creer-une-strategie-de-conformite-avec-intune/
+11:34:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/wp-content/uploads/2024/11/002-1024x241-1.png (from https://qwerio.net/creer-groupe-de-securite-dynamique-avec-azure/)
+11:34:17	Warning: 	Moved Permanently for https://qwerio.net/accompagnements/apps-et-workflows-metier/
+11:34:17	Warning: 	File has moved from https://qwerio.net/accompagnements/apps-et-workflows-metier/ to https://qwerio.net/accompagnements/business-apps-and-workflows/
+11:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/transformation-digitale/ (from https://qwerio.net/digital-champion/)
+11:34:22	Warning: 	Moved Permanently for https://qwerio.net/en/en/contact
+11:34:22	Warning: 	File has moved from https://qwerio.net/en/en/contact to https://qwerio.net/contact/
+11:34:22	Error: 	"Error when decompressing" (-1) at link https://qwerio.net/en//our-expertise (from https://qwerio.net/en/solutions/microsoft-365/)
+11:34:22	Error: 	Unable to save file C:/Meus Sites/IMEX/IMEX/qwerio.net/en/our-expertise: Permission denied
+11:34:23	Error: 	"Not Found" (404) at link https://qwerio.net/en/category/microsoft-power-platform/page/2 (from https://qwerio.net/en/category/microsoft-power-platform/)
+11:34:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/en/blog/page/2/ (from https://qwerio.net/en/blog/)
+11:34:23	Error: 	"Not Found" (404) at link https://qwerio.net/actualites/transformation-digitale-2022/ (from https://qwerio.net/en/managing-remotely-6-practical-tips/)
+11:34:23	Error: 	"Not Found" (404) at link https://qwerio.net/?page_id=16 (from https://qwerio.net/en/managing-remotely-6-practical-tips/)
+11:34:23	Error: 	"Not Found" (404) at link https://qwerio.net/?page_id=14 (from https://qwerio.net/en/managing-remotely-6-practical-tips/)
+11:34:23	Error: 	"Not Found" (404) at link https://qwerio.net/?page_id=18 (from https://qwerio.net/en/managing-remotely-6-practical-tips/)
+11:34:26	Warning: 	Moved Permanently for https://qwerio.net/actualites/application-gestion-des-visites-sidel/
+11:34:26	Warning: 	File has moved from https://qwerio.net/actualites/application-gestion-des-visites-sidel/ to https://qwerio.net/application-de-gestion-des-visites-sidel/
+11:34:30	Warning: 	Moved Permanently for https://qwerio.net/etude-de-cas-modernisation-si-assu-2000/
+11:34:30	Warning: 	File has moved from https://qwerio.net/etude-de-cas-modernisation-si-assu-2000/ to https://qwerio.net/modernisation-du-si-assu-2000/
+11:34:30	Warning: 	Moved Permanently for https://qwerio.net/actualites/qwerio-est-certifie-qualiopi-pour-ses-actions-de-formation/
+11:34:30	Warning: 	File has moved from https://qwerio.net/actualites/qwerio-est-certifie-qualiopi-pour-ses-actions-de-formation/ to https://qwerio.net/qwerio-est-certifie-qualiopi/
+11:34:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/wp-content/uploads/2024/11/002-1024x241-1.png (from https://qwerio.net/creer-groupe-de-securite-dynamique-avec-azure/)
+11:34:30	Warning: 	Moved Permanently for https://qwerio.net/transformation-digitale/
+11:34:30	Warning: 	File has moved from https://qwerio.net/transformation-digitale/ to https://qwerio.net/accompagnements/digital-factory/
+11:34:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://qwerio.net/wp-content/uploads/2024/10/sketch2-1.png (from https://qwerio.net/digital-champion-discover-this-emerging-role-with-mathieu-consultant-at-qwerio-3/)
+11:34:32	Warning: 	Moved Permanently for https://qwerio.net/qwerio-est-certifie-qualiopi/
+11:34:32	Warning: 	File has moved from https://qwerio.net/qwerio-est-certifie-qualiopi/ to https://qwerio.net/qwerio-is-qualiopi-certified/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 46 seconds : 414 links scanned, 361 files written (69099944 bytes overall) [60393828 bytes received at 267229 bytes/sec], 14088683 bytes transferred using HTTP compression in 264 files, ratio 36%, 15.0 requests per connection
+(15 errors, 57 warnings, 0 messages)
